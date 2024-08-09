@@ -280,7 +280,7 @@ ORDER BY avg_loan_int_rate desc;
 # Sharing Insights with Stakeholders:
 To effectively communicate my findings to the stakeholders at ABC Financial Services, I will be using Power BI to create interactive and visually engaging dashboards. Power BI allows for a clear and concise presentation of complex data, making it easier for stakeholders to understand key trends, correlations, and patterns identified in the analysis.
 
-![Dashboard] (https://github.com/RobertoGitHb/Unveiling-Insights-from-Loan-Data/blob/main/Data%20set%20Loan%20Project%20Power%20BI.png)
+![Data set Loan Project Power BI](https://github.com/user-attachments/assets/eec316b9-5c94-45ec-bc42-586a9044fc8d)
 
 
 
