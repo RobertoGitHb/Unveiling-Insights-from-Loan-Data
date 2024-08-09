@@ -280,7 +280,22 @@ ORDER BY avg_loan_int_rate desc;
 # Sharing Insights with Stakeholders:
 To effectively communicate my findings to the stakeholders at ABC Financial Services, I will be using Power BI to create interactive and visually engaging dashboards. Power BI allows for a clear and concise presentation of complex data, making it easier for stakeholders to understand key trends, correlations, and patterns identified in the analysis.
 
+Please see below illustration
 ![Data set Loan Project Power BI](https://github.com/user-attachments/assets/eec316b9-5c94-45ec-bc42-586a9044fc8d)
+
+#Findings
+
+Our analysis has revealed several critical insights into the factors influencing loan defaults and requests:
+
+## Age and Default Risk: Younger borrowers exhibit a higher risk of defaulting on loans, indicating a negative correlation between age and default rates.
+## Income and Loan Requests: Individuals with lower income levels are more likely to request loans, suggesting financial need drives loan applications among this demographic.
+## Loan Intent and Interest Rates: Loans intended for home improvement carry the highest interest rates among all categories.
+## Employment Duration and Repayment: A longer employment duration correlates positively with higher loan repayment rates, highlighting job stability as a key factor in creditworthiness.
+## Age and Interest Rates: There appears to be no significant correlation between a borrower's age and the interest rates they receive.
+## Risky Loan Intents: Loans taken out for medical reasons and debt consolidation are associated with higher default risks, marking them as the riskiest loan intents.
+
+These insights provide a foundation for refining our loan approval processes, tailoring interest rates, and implementing targeted risk mitigation strategies.
+
 
 
 
