@@ -195,7 +195,7 @@ GROUP BY
     select * from Loanstage2;
 ```
 
-##... and how does this impact their repayment behavior?
+## ... and how does this impact their repayment behavior?
 ```
 SELECT 
 case
